@@ -1,5 +1,5 @@
 .banner {
-background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fvnexpress.net%2Fchu-de%2Ftruong-thpt-chu-van-an-2261&psig=AOvVaw3MhHyoWVvJnSA6GcqQDe7X&ust=1763311731334000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPC0qKHO9JADFQAAAAAdAAAAABAE") no-repeat center center;
+background: url("img-0.jpg") no-repeat center center;
 background-size: cover;
 padding-top: 12rem;
 padding-bottom: 12rem;
@@ -55,6 +55,7 @@ text-decoration: none;
     display: block;
     padding: 10px 5px;
 }
+
 
 
 
